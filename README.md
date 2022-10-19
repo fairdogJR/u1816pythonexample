@@ -1,6 +1,6 @@
 # u1816pythonexample
 U1816E python code  program directly using 32 bit DLL
-See Project Wiki https://github.com/fairdogJR/u1816pythonexample/wiki or python code for more detailed info
+See Project Wiki https://github.com/fairdogJR/u1816pythonexample/wiki/U1816pythonexample-Wiki or python code for more detailed info
 
 Make sure you install the complete U1816E Soft front panel. All code examples are there except python
 
