@@ -1,6 +1,6 @@
 # u1816pythonexample
 U1816E python code  program directly using 32 bit DLL
-See Project Wiki or python code for more info
+See Project Wiki https://github.com/fairdogJR/u1816pythonexample/wiki or python code for more detailed info
 
 Make sure you install the complete U1816E Soft front panel. All code examples are there except python
 
@@ -15,3 +15,6 @@ One VERY important thing is the default directory "C:\Program Files (x86)\Keysig
 
 Manual for this is here and there is a software section near the end of the manual
 https://www.keysight.com/ca/en/assets/9018-03932/user-manuals/9018-03932.pdf
+
+thanks, 
+-Tim Fairfield
