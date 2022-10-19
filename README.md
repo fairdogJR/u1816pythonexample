@@ -5,7 +5,7 @@ See Project Wiki https://github.com/fairdogJR/u1816pythonexample/wiki or python 
 Make sure you install the complete U1816E Soft front panel. All code examples are there except python
 
 If you want to use the 64 bit dll you will find it in 
-"C:\Program Files (x86)\Keysight\U1816x\Dll"
+"C:\Program Files (x86)\Keysight\U1816x\Dll" after installing the product's soft front panel.
 
 
 
